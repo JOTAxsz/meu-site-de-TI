@@ -90,4 +90,9 @@ font-size: 22px;
         height: auto;
         display: inline-flex;
     }
+
+    fomr{
+        width: auto;
+        height: auto;
+    }
 }
