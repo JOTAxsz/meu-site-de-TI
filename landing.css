@@ -140,6 +140,7 @@ body {
         padding: auto;
         margin: auto;
         align-items: center;
+        margin-top: 5%;
     }
     .portifolio {
         width: 85%;
@@ -149,6 +150,7 @@ body {
         justify-content: center;
         text-align: center;
         margin: auto;
+        margin-top: 30%;
     }
     .not1, .not2{
         width: 80%;
@@ -178,7 +180,7 @@ body {
     }
 
     .noticias{
-        margin-top:  -20%;
+        margin-top:  -10%;
     }
 
     .rodape{
@@ -186,6 +188,7 @@ body {
         font-size: 12px;
         justify-content: center;
         padding: auto;
+        border-radius: 5px;
     }
 }
 
