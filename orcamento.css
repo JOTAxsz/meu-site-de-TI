@@ -65,3 +65,51 @@ button:hover {
     color: white;
     font-size: 22px;
 }
+
+@media screen and (max-width: 980px){
+    header h1{
+        width: auto;
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .logo img{
+        width: 55%;
+        height: 55%;
+    }
+
+    .menuNavegacao a{
+        text-align: center;
+        font-size: 35px;
+    }
+
+    .container{
+        margin-top: 30%;
+        width: 80%;
+        font-size: 40px;
+        border-radius: 15px;
+        height: 100%;
+    }
+
+    form button{
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }    
+
+    .container h2{
+        text-align: center;
+    }
+
+    #button {
+        text-align: center;
+        font-size: 30px;
+    }
+
+    form input, textarea{
+        font-size: 30px;
+        margin: auto;
+        box-decoration-break: inherit;
+    }
+}
