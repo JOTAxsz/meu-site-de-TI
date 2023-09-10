@@ -230,7 +230,19 @@ body {
         margin-left: -30px;
     }
     
-    .not1, .not2{
+    .not1{
+        width: 80%;
+        padding: auto;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .not2{
+        width: 80%;
+        padding: auto;
+        margin: auto;
+        margin-top: 20px;
+    }
+    .not3{
         width: 80%;
         padding: auto;
         margin: auto;
