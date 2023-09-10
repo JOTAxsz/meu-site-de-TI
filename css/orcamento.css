@@ -92,8 +92,8 @@ form input, form textarea{
     }
 
     .logo img{
-        width: 55%;
-        height: 55%;
+        width: 50%;
+        height: 50%;
         margin-bottom: 20px;
     }
 
@@ -148,7 +148,6 @@ form input, form textarea{
         font-size: 35px;
         text-align: left;
         float: left;
-        margin-left: 1.5%;
     }
 
 

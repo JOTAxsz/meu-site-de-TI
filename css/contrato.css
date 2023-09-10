@@ -49,8 +49,8 @@ button:hover {
 }
 .logo img{
 border-radius: 50%;
-width: 350px;
-height: 350px;
+width: 320px;
+height: 320px;
 padding-top: 10px;
 }
 .header{
@@ -101,8 +101,8 @@ form input, form textarea{
     }
 
     .logo img{
-        width: 55%;
-        height: 55%;
+        width: 50%;
+        height: 50%;
         margin-bottom: 20px;
     }
 
@@ -156,7 +156,6 @@ form input, form textarea{
 
     form label{
         font-size: 35px;
-        margin-left: 5.5px;
     }
 
     form{
