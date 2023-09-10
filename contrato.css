@@ -64,3 +64,38 @@ text-decoration: none;
 color: white;
 font-size: 22px;
 }
+
+@media screen and (max-width: 700px){
+    header h1{
+        width: auto;
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .logo img{
+        width: 75%;
+        height: 75%;
+    }
+
+    .menuNavegacao a{
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .container{
+        margin-top: -85px;
+        width: 80%;
+        font-size: 12px;
+    }
+
+    form button{
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }    
+
+    .container h2{
+        text-align: center;
+    }
+}
